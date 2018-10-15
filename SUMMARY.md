@@ -4,6 +4,6 @@
 
 ## Contents
 
-* [특징\(Features\)](contents/undefined.md)
-* [구문\(Syntax\)](contents/undefined-2.md)
+* [특징\(Features\)](contents/features.md)
+* [구문\(Syntax\)](contents/systax.md)
 
