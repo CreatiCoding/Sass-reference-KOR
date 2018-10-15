@@ -2,7 +2,7 @@
 description: 'https://www.kaelig.fr/bettersassdocs/#features'
 ---
 
-# 특징
+# 특징\(Features\)
 
 * 완벽한 CSS 호환
 * 언어 확장\(변수, Nesting, Mixins\)
